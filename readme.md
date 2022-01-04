@@ -9,4 +9,6 @@
 7.- git commit --amend // arrega el commit mal escrito 
 8.- git checkout -b rama-nueva // para crear nuevas ramas a partir del master 
 9.- git branch // visualiza en que rama estamos 
-10.- git checkout master 
+10.- git checkout master // cambiar de rama 
+11.- git merge rama-nueva // fusionar ramas
+12.- git branch -d  rama-nueva // borrar una rama
