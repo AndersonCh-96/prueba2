@@ -8,3 +8,5 @@
 6.- git log // listado de los commit 
 7.- git commit --amend // arrega el commit mal escrito 
 8.- git checkout -b rama-nueva // para crear nuevas ramas a partir del master 
+9.- git branch // visualiza en que rama estamos 
+10.- git checkout master 
