@@ -13,3 +13,4 @@
 11. git merge rama-nueva // fusionar ramas
 12. git branch -d  rama-nueva // borrar una rama
 13. git push // guarda los cambios en el repositorio de github
+14. git commit -am // agregar y guardar cambios en un solo comando 
